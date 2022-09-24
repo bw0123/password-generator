@@ -25,7 +25,7 @@ h1 {
 
 p {
     font-family: 'Inter', sans-serif;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 20px;
     line-height: 28px;
     color: #D5D4D8;
@@ -34,7 +34,7 @@ p {
 
 .gen-btn {
     font-family: 'Inter', sans-serif;
-    font-weight: 500px;
+    font-weight: 500;
     font-size: 16px;
     background-color: #F59E0B;
     color: #FFFFFF;
@@ -53,7 +53,7 @@ p {
     color: #F59E0B;
     
     font-family: 'Inter', sans-serif;
-    font-weight: 500px;
+    font-weight: 500;
     font-size: 16px;
     
     margin-top: 20px;
